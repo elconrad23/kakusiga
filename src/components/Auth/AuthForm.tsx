@@ -46,7 +46,7 @@ const AuthForm: React.FC = () => {
             TourConnect
           </h1>
           <p className="text-gray-600">
-            {isLogin ? 'Welcome back!' : 'Join our community'}
+            {isLogin ? 'Join our community' : 'Welcome back!'}
           </p>
         </div>
 
